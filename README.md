@@ -14,4 +14,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## Live URL
 
-Live URL: https://react-website-apsal.netlify.app
+Live URL: https://react-wesite-apsal.netlify.app
